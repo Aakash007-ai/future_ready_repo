@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+[Run app in browser](https://aakash007-ai.github.io/future_ready_repo/)
+
 You can use the [editor on GitHub](https://github.com/Aakash007-ai/future_ready_repo/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -23,7 +25,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Run app in browser](https://aakash007-ai.github.io/future_ready_repo/)  Click on link to open text
+[Run app in browser](https://aakash007-ai.github.io/future_ready_repo/). 
 and ![Image](src)
 ```
 
